@@ -48,4 +48,10 @@ body
 #post {
     background: white;
     padding: 1em;
+}    
+#footer {
+    background: #33A;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
